@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [17WAN.PrjPCB]
+   Generated File[1.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:32:28 On 2020-6-19
